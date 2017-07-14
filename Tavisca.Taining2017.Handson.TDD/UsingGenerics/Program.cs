@@ -15,6 +15,7 @@ namespace UsingGenerics
             Console.Write("Enter value: ");
             string s = Console.ReadLine();
             int i;
+            int u;
             decimal d;
             bool b;
             switch (choice)
