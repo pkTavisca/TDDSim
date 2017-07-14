@@ -20,20 +20,22 @@ namespace UsingGenerics
             switch (choice)
             {
                 case 1:
+                    Console.WriteLine(s);
                     break;
                 case 2:
                     i = int.Parse(s);
+                    Console.WriteLine(i);
                     break;
                 case 3:
                     d = decimal.Parse(s);
+                    Console.WriteLine(d);
                     break;
                 case 4:
                     b = bool.Parse(s);
+                    Console.WriteLine(b);
                     break;
             }
-
-
-
+            Console.ReadKey();
         }
     }
 }
