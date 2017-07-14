@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GasConnection", "GasConnect
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GasConnectionTest", "GasConnectionTest\GasConnectionTest.csproj", "{501821C8-5E92-4E3C-A031-5CC861892AAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingGenerics", "UsingGenerics\UsingGenerics.csproj", "{F319C17E-B3FF-4BA3-929C-A86FC9F23F01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{501821C8-5E92-4E3C-A031-5CC861892AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{501821C8-5E92-4E3C-A031-5CC861892AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{501821C8-5E92-4E3C-A031-5CC861892AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F319C17E-B3FF-4BA3-929C-A86FC9F23F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F319C17E-B3FF-4BA3-929C-A86FC9F23F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F319C17E-B3FF-4BA3-929C-A86FC9F23F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F319C17E-B3FF-4BA3-929C-A86FC9F23F01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
